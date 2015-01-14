@@ -11,6 +11,8 @@ Spark Core
 
 Adapted for Spark Core by Paul Kourany, Jan 2015
 
+Serial port Serial, Serial1 or Serial2 is selected in SerialCommand.h
+
 
 Arduino
 -------
